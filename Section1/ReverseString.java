@@ -1,6 +1,6 @@
 package Section1;
 
-// Write a Java Program to reverse a String.
+// Java Program to reverse a String.
 // The Input is : "Iamthebest"
 // Output should be : "tsebehtmaI"
 
